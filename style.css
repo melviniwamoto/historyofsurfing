@@ -1,0 +1,12 @@
+body {
+  font-family: Julee;
+  color: white;
+  background-image: url("https://www.theinertia.com/wp-content/uploads/2011/12/Clark-Little-Gerry-Lopez.jpg");
+  background-size: cover;
+}
+h1, h2 {
+  font-family: Anton;
+}
+img {
+  float: bottom;
+}
